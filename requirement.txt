@@ -1,0 +1,22 @@
+# Core ML
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# NLP
+nltk>=3.8.0
+# transformers>=4.35.0  # Uncomment for BERT support
+# torch>=2.0.0          # Uncomment for BERT support
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API / Deployment
+flask>=3.0.0
+joblib>=1.3.0
+
+# Optional: progress bars
+tqdm>=4.65.0
+
